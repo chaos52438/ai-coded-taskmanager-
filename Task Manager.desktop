@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Task Manager
+Comment=Linux system task manager
+Exec=/usr/lib/electron42/electron /home/chaos/Desktop/taskmanager
+Icon=/home/chaos/Desktop/taskmanager/assets/icons/taskmanager-app.png
+Terminal=false
+Categories=System;Monitor;

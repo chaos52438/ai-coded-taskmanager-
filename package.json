@@ -1,0 +1,8 @@
+{
+  "name": "taskmanager-linux",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A lightweight Linux system monitor built with JavaScript",
+  "main": "main.js",
+  "scripts": { "start": "electron .", "start:server": "node server.js" }
+}
